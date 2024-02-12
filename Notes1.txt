@@ -16,9 +16,43 @@
 
 - Web hosting
 * I have used free wordpress.com
+* Or I have used alwaysdata
 
 -- Setup
+
+- Setup
 * Go to domain/wp-admin
 * Login to go to wordpress dashboard
+
+- Plugins
+* Delete all default plugins
+
+- Update
+* Keep uptodate
+
+- Users
+* Add user
+Users > Add New
+* Change password
+Users > Edit <user>
+
+- Setup url and posts
+* Settings > Permalinks
+Change to "Post name"
+Save
+
+- Theme 
+* Determines look and feel
+* Installing popular and customizable theme : oceanwp
+* Appearance > Themes
+> Add new theme 
+* Search oceanwp and install
+* Activate
+
+- Plugins
+* Adds features and functionalities to site
+E.g. contact form, block spam comment, implement shopping cart
+* Install plugins : ocean extra, elementor
+* Activate plugins : Plugins > select all > Activate
 
 
