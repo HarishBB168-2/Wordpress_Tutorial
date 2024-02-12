@@ -14,3 +14,11 @@
 * Using images and colors
 * Get domain and hosting
 
+- Web hosting
+* I have used free wordpress.com
+
+-- Setup
+* Go to domain/wp-admin
+* Login to go to wordpress dashboard
+
+
