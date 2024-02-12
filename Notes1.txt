@@ -73,6 +73,14 @@ All-in-One Wp Migration > Export
 * Auto backup on server
 -------------------------------------------
 
+-- Customizing the website
+
+- From page
+* Go to page (view site)
+* Click customize
+* Site identity : title, tagline
+* Publish
+
 
 Completed till : 30:00
 
