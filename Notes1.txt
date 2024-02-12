@@ -17,6 +17,9 @@
 - Web hosting
 * I have used free wordpress.com
 * Or I have used alwaysdata
+* Or I have used pantheonsite
+
+-------------------------------------------
 
 -- Setup
 
@@ -55,4 +58,21 @@ E.g. contact form, block spam comment, implement shopping cart
 * Install plugins : ocean extra, elementor
 * Activate plugins : Plugins > select all > Activate
 
+- Installing demo template - OceanWp demos
+* Select any simple demo
+* It will require some more plugins, install them.
+* Can reinstall if some error occured.
+
+- Backing up site
+* Using plugin : all-in-one wp migration
+* Activate it
+* Download entire site to computer
+All-in-One Wp Migration > Export
+> Export to file
+* Importing backup
+* Auto backup on server
+-------------------------------------------
+
+
+Completed till : 30:00
 
