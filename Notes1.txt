@@ -81,6 +81,30 @@ All-in-One Wp Migration > Export
 * Site identity : title, tagline
 * Publish
 
+- Change logo
+* Header > Logo
+* Remove logo
+* Create new logo from : logomaker.com
+* Select logo > upload / drag
+* Give it : title, alt text > select
+* Select whole image
+* Publish
+* If not properly display, then
+go to retina display, select any logo then remove it.
+After this former logo will be used.
 
-Completed till : 30:00
+- Update colors
+* Go to General Options
+* General styling
+* Select : primary, hover, main border colors etc.
 
+- Update favicon
+* Go to site identity
+* Select site icon
+
+- Edit pages
+* Using "Edit with Elementor"
+
+
+
+Completed 
